@@ -1,7 +1,7 @@
 'Jak and Daxter: The Precursor Legacy':
   enable_move_randomizer:
-    'false': 3
-    'true': 2
+    'false': 2
+    'true': 3
   require_punch_for_klaww:
     'false': 2
     'true': 5
@@ -9,24 +9,23 @@
     defeat_gol_and_maia: 10
     open_100_cell_door: 1
   enable_orbsanity:
-    'off': 5
-    per_level: 1
-    global: 1
+    'off': 2
+    per_level: 4
+    global: 4
   global_orbsanity_bundle_size:
-    20_orbs: 1
-    25_orbs: 2
-    40_orbs: 3
-    50_orbs: 4
-    80_orbs: 5
-    100_orbs: 5
-    125_orbs: 5
-    200_orbs: 5
+    10_orbs: 2
+    20_orbs: 4
+    25_orbs: 4
+    40_orbs: 2
+    50_orbs: 2
+    80_orbs: 1
+    100_orbs: 1
   level_orbsanity_bundle_size:
-    25_orbs: 2
-    50_orbs: 5
+    10_orbs: 2
+    25_orbs: 5
+    50_orbs: 2
   enable_ordered_cell_counts:
-    'false': 2
-    'true': 5
+    'true': 1
   fire_canyon_cell_count:
     random-range-15-25: 1
   mountain_pass_cell_count:
